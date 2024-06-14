@@ -1,2 +1,6 @@
 # Основы работы с GitHub через PyCharm
-Изучаем как через PyCharm подключить Github
+### Урок 2. Настраиваем инструенты
+1. PyCharm
+2. GitHub
+3. Pytest
+
